@@ -1,0 +1,4 @@
+2026-02-24_decisions
+git pull origin master( 이전 사람 브랜치명ormaster)
+git branch modify (자신의 가지 만들기)
+git checkout modify (마스터에서 가지로(modify로))
